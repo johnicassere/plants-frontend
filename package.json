@@ -1,7 +1,10 @@
 {
   "name": "plants-frontend",
   "version": "1.0.0",
+  "description": "This is a Front-end connected with plants-api project for register Plants, Users and add plants to the list of cultivated items.",
+  "author": "Isabella Nunes",
   "private": true,
+  "license": "MIT",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
