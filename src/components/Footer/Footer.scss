@@ -1,0 +1,21 @@
+.footer {
+  background-color: #001101;
+  padding: 1rem 0;
+
+  &__links {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    &__items {
+      color: #ffffff;
+      text-decoration: none;
+      font-size: 1.8em;
+    }
+
+    &__items:hover {
+      opacity: 0.8;
+    }
+  }
+}
