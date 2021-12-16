@@ -1,0 +1,18 @@
+.card {
+  padding: 0.5rem;
+  border-radius: 0.4rem;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  margin: 0.5rem;
+
+  img {
+    width: 14rem;
+  }
+
+  span {
+    font-size: 1.7em;
+    text-align: center;
+    padding: 0.5rem 0;
+  }
+}

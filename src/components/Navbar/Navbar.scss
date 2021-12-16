@@ -1,0 +1,23 @@
+.navbar {
+  background-color: #1b4332;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.6rem 0.6rem;
+
+  &__logo {
+    color: #ffffff;
+    font-size: 1.8em;
+  }
+
+  &__links {
+    display: flex;
+
+    &__items {
+      color: #ffffff;
+      text-decoration: none;
+      list-style: none;
+      margin: 0 0.4rem;
+    }
+  }
+}
