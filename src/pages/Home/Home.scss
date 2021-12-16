@@ -1,0 +1,10 @@
+.home {
+
+  &__cards {
+    background-color: #121b13;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 0 4rem;
+  }
+}
